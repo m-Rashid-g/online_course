@@ -1,0 +1,222 @@
+
+
+
+.bg-color2{
+ background: rgba(24, 76, 153, 1) !important; 
+ height: 700px;
+ width: 600px;
+ border-bottom-left-radius: 32px;
+ display: flex;
+ justify-content: space-between;
+} 
+
+
+
+.bg-image{
+    background-image: url('./images/none-bg-image.svg') !important;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.para{
+    padding-top: 190px;
+}
+
+.nav-align{
+    left: 50px;
+}
+
+
+
+.card1{
+    width: 300px;
+    box-shadow: 8px 0px 10px rgba(0, 0, 0, 0.1),
+                  -8px 0px 10px rgba(0, 0, 0, 0.1),
+                  0px 8px 10px rgba(0, 0, 0, 0.1);
+}
+
+.for-center{
+    margin-left: 12%;
+}
+
+
+
+.fixed-image{
+    margin-top: 80px;
+}
+
+.bg-card-color{
+    background-color: rgba(37, 43, 66, 1);
+    
+}
+
+
+
+
+
+
+
+.first-image{
+    position: absolute;
+    bottom: 10px;
+  
+}
+
+
+
+.threed-image{
+    position: absolute;
+    bottom: 10px;
+    left: 270px;
+
+}
+
+
+.sacande-image{
+    position: absolute;
+    bottom: 10px;
+    left: 120px;
+  float: right;
+}
+
+ .card-image{
+    background-image: url(./images/cover.svg) !important;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+
+} 
+
+
+.card-image2{
+    background-image: url(./images/product2.svg) !important;
+    
+    height: 300px;
+    width: 300px;
+
+    background-repeat: no-repeat;
+}
+
+
+.card-image3{
+    background-image: url('./images/product3.svg') !important;
+   width: 300px;
+   height: 300px;
+
+    background-repeat: no-repeat;
+
+}
+
+
+.card-icon{ 
+    position:absolute;
+    bottom: 10px;
+  
+}
+
+
+
+
+.bg-card-color3{
+width: 300px;
+    background-color: white !important;
+    padding: 15px;
+    
+}
+
+
+
+
+
+.text-color{
+    color: rgba(64, 187, 21, 1);
+}
+
+
+
+
+
+.Lessons{
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+.Graphic-Design-text{
+
+    color: rgba(37, 43, 66, 1);
+}
+
+
+.Fotar-color{
+    color: rgba(37, 43, 66, 1) !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.foter-bg-image{
+    background-image: url('./images/footer-bg.svg');
+    background-repeat: no-repeat;
+ height: 100vh; 
+    
+
+   
+    
+}
+
+
+
+
+.for-center{
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
